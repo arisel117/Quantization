@@ -4,6 +4,7 @@
 
 
 라마 3.1의 구조 확인과 양자화를 진행해보자!!
+- [https://pytorch.org/torchtune/stable/tutorials/llama3.html](https://pytorch.org/torchtune/stable/tutorials/llama3.html) 참고
 
 
 
